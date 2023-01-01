@@ -1,6 +1,6 @@
 import React from 'react';
 import curriculumMio from "../assets/Curriculum-academlo.pdf"
-import { Link } from 'react-router-dom';
+
 import imgAboutMe from "../assets/decortion-004.png"
 const AboutMe = () => {
   const handleClickOne=()=>{

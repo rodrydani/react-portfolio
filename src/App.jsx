@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import { HashRouter, Route, Routes } from "react-router-dom";
+
 import Home from "./components/Home"
 import './App.css'
 import NavBar from './components/NavBar';
